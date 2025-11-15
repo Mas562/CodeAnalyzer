@@ -12,9 +12,6 @@
 ## Поддерживаемые модели
 
 - Mistral 7B Instruct
-- Google Gemma 7B IT
-- Meta Llama 3 8B Instruct
-- HuggingFace Zephyr 7B Beta
 
 ## Установка
 
